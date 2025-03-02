@@ -1,4 +1,4 @@
-#Formulário
+Formulário
 
 Criei um formulário utilizando React, dividido em três telas, onde cada etapa deve ser concluída para avançar para a próxima. Durante o processo, as informações são salvas automaticamente, garantindo que nenhum dado seja perdido e proporcionando uma experiência mais fluida e intuitiva para o usuário.
 
